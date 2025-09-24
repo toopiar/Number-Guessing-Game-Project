@@ -30,8 +30,11 @@ A simple command-line game in Python where you try to guess a randomly generated
 
 ## How to Download and Run
 
-### How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/number-guessing-game.git
+1. Clone the repository
+2. Open Command Prompt
+3. Navigate to file location
+4. Run command
+
+```bash
+python Number_Guess.py
    
